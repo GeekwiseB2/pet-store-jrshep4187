@@ -1,0 +1,31 @@
+.container .fluid {
+  padding: 0px;
+}
+
+.header .logo {
+  max-height: 90px;
+}
+
+.header h3 {
+  font-family: 'satisfy', cursive;
+  color: #FF8079;
+  display: inline;
+}
+
+.jumbotron {
+  border-radius: 0px!important;
+  background-image: url('../img/hero.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 450px;
+}
+
+.jumbotron .slogan {
+  color: #fff;
+  font-size: 36px;
+  font-family: 'Open Sans'
+}
+
+.featured .thumbnail {
+  background-color: #EDF1F4;
+}
